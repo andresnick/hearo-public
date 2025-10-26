@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/logo-hearo-wordmark.svg" width="480" alt="HEARO" />
+  <img src="./public/logo-hearo.svg" width="120" alt="HEARO" />
 </p>
 
 # 💬 HEARO — герой, чья суперсила слушать

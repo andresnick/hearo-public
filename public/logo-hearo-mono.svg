@@ -1,0 +1,7 @@
+<!-- logo-hearo-mono.svg -->
+<svg width="240" height="240" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HEARO logo mono">
+  <g fill="none" stroke="currentColor" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M208 352c-18 0-32-14-32-32 0-19-9-36-24-46-17-12-40-33-40-86 0-57 47-104 104-104s104 47 104 104c0 51-24 74-41 90-9 9-15 21-15 34 0 18-14 32-32 32z"/>
+    <path d="M420 238c0-28-22-50-50-50-14 0-27 6-36 15-9-9-22-15-36-15-28 0-50 22-50 50 0 15 7 29 18 38l68 58 68-58c11-9 18-23 18-38z" fill="currentColor" stroke="none"/>
+  </g>
+</svg>

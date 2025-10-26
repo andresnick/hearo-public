@@ -1,0 +1,26 @@
+<!-- logo-hearo-wordmark.svg -->
+<svg width="720" height="160" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HEARO wordmark">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6EA8FF"/>
+      <stop offset="100%" stop-color="#88E0DD"/>
+    </linearGradient>
+  </defs>
+  <!-- иконка слева (уменьшенная версия из основного лого) -->
+  <g transform="translate(10,10) scale(0.52)">
+    <path d="M208 352c-18 0-32-14-32-32 0-19-9-36-24-46-17-12-40-33-40-86 0-57 47-104 104-104s104 47 104 104c0 51-24 74-41 90-9 9-15 21-15 34 0 18-14 32-32 32z"
+          fill="none" stroke="#5A86FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M320 188c0-62-50-112-112-112S96 126 96 188c0 54 35 82 52 94 10 7 15 17 15 29 0 28 22 50 50 50s50-22 50-50c0-9 3-16 10-22 18-17 47-44 47-101z"
+          fill="url(#g2)" opacity="0.25"/>
+    <path d="M420 238c0-28-22-50-50-50-14 0-27 6-36 15-9-9-22-15-36-15-28 0-50 22-50 50 0 15 7 29 18 38l68 58 68-58c11-9 18-23 18-38z"
+          fill="url(#g2)" stroke="#4E7AFF" stroke-width="10" stroke-linejoin="round"/>
+  </g>
+  <!-- надпись HEARO -->
+  <g transform="translate(150,112)">
+    <path d="M0-72h16v28h48v-28h16v72h-16V-28H16v28H0v-72Z" fill="#0F172A"/>
+    <path d="M110-72h16v72h-16v-72Z" fill="#0F172A"/>
+    <path d="M150-72h54c18 0 30 10 30 26 0 12-6 20-16 24l18 22h-20l-16-20h-30v20h-16v-72Zm16 14v24h36c10 0 16-5 16-12s-6-12-16-12h-36Z" fill="#0F172A"/>
+    <path d="M272-72h20l36 72h-18l-8-16h-40l-8 16h-18l36-72Zm4 44h28l-14-28-14 28Z" fill="#0F172A"/>
+    <path d="M360 0v-72h40c22 0 36 13 36 36S422 0 400 0h-40Zm16-58v44h24c14 0 22-8 22-22s-8-22-22-22h-24Z" fill="#0F172A"/>
+  </g>
+</svg>
